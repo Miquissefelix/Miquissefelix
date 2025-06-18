@@ -28,7 +28,7 @@ Passionate about building modern web applications with robust and scalable solut
 - CI/CD pipelines
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquisse-felix-7ba81928a/)
 
 ## Contacts:
 
